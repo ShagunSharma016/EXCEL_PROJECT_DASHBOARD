@@ -1,6 +1,6 @@
 # EXCEL_PROJECT_FOR-DATA_ANALYSIS
 A portfolio of my Excel projects showcasing data analysis methods such as data cleaning, transformation, visualization, and insights extraction—helping to uncover patterns and trends for improved decision-making and reporting.  
-## -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 1. ☕ Coffee Sales Analysis
 
 ## 📌 Introduction  
@@ -46,4 +46,4 @@ This project analyzes coffee sales data using Excel to extract meaningful insigh
 ## 🏁 Conclusion  
 The Coffee Sales Analysis provides valuable insights into sales trends, helping businesses optimize inventory, pricing strategies, and marketing efforts. Future improvements may include integrating external datasets or automating reports for real-time analytics.  
 
-## ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
