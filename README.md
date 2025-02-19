@@ -40,7 +40,7 @@ This project analyzes coffee sales data using Excel to extract meaningful insigh
 The Coffee Sales Analysis provides valuable insights into sales trends, helping businesses optimize inventory, pricing strategies, and marketing efforts. Future improvements may include integrating external datasets or automating reports for real-time analytics.  
 
 ## ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 🏍️ Bike Sales Analysis
+# 2. 🏍️ Bike Sales Analysis
 
 ## 📖 Introduction
 This project analyzes bike sales data to uncover trends, customer preferences, and insights that can help improve sales strategies. Using **Excel**, we perform **data cleaning, transformation, visualization, and insights extraction**.
