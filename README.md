@@ -15,13 +15,6 @@ This project analyzes coffee sales data using Excel to extract meaningful insigh
 ## 📊 Snapshots
 ![Coffee Sales Dashboard](https://i.imgur.com/QkJxATW.png)
 
-## 📂 Dataset  
-- **File Name:** `Coffee_Sales_Analysis.xlsx`  
-- **Contents:**  
-  - Sales transactions with product details, prices, and quantities  
-  - Date-wise sales records  
-  - Customer and region-specific data  
-
 ## 🔍 Analysis Steps  
 1. **Data Cleaning:**  
    - Removed duplicates and handled missing values  
