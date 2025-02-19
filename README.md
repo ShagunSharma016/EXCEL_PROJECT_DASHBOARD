@@ -13,6 +13,7 @@ This project analyzes coffee sales data using Excel to extract meaningful insigh
 - **Descriptive Statistics**: Understanding sales distribution  
 - **Data Cleaning**: Handling missing values, duplicates, and inconsistencies
 ## 📊 Snapshots
+![Coffee Sales Dashboard](https://i.imgur.com/7h0aIjF.png)
 ![Coffee Sales Dashboard](https://i.imgur.com/QkJxATW.png)
 
 ## 🔍 Analysis Steps  
@@ -96,10 +97,10 @@ This project analyzes hotel booking data to uncover insights on **customer demog
 - **❌ Cancellation Rate** is **37.06%**, meaning over a third of bookings get canceled.  
 
 ## 🖥️ Snapshots
-![Hotel Sales Dashboard](https://i.imgur.com/x6DMCeT.png)  
+![Hotel Sales Dashboard](https://i.imgur.com/P3uZz2h.png)  
 ![Hotel Sales Dashboard](https://i.imgur.com/eNzIF14.png)  
 ![Hotel Sales Dashboard](https://i.imgur.com/sy2Q0LK.png)  
-![Hotel Sales Dashboard](https://i.imgur.com/MHJYc0B.png)  
+![Hotel Sales Dashboard](https://i.imgur.com/OYWiKEa.png)  
 
 ## 🛠 Tools Used
 - **Microsoft Excel** (Pivot tables, charts, formulas)  
@@ -108,6 +109,7 @@ This project analyzes hotel booking data to uncover insights on **customer demog
 
 ## 📌 Conclusion
 This analysis provides insights into **hotel booking trends**, identifying **top countries, popular room types, and high cancellation rates**. These findings help hotel managers **optimize pricing, reduce cancellations, and improve customer experience**.  
+## ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
