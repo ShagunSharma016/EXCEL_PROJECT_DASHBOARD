@@ -12,7 +12,7 @@ This project analyzes coffee sales data using Excel to extract meaningful insigh
 - **Descriptive Statistics**: Understanding sales distribution  
 - **Data Cleaning**: Handling missing values, duplicates, and inconsistencies
 ## 📊 Coffee Sales Dashboard 
-
+![Coffee Sales Dashboard]
 
 ## 📂 Dataset  
 - **File Name:** `Coffee_Sales_Analysis.xlsx`  
