@@ -47,3 +47,27 @@ This project analyzes coffee sales data using Excel to extract meaningful insigh
 The Coffee Sales Analysis provides valuable insights into sales trends, helping businesses optimize inventory, pricing strategies, and marketing efforts. Future improvements may include integrating external datasets or automating reports for real-time analytics.  
 
 ## ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🏍️ Bike Sales Analysis
+
+## 📖 Introduction
+This project analyzes bike sales data to uncover trends, customer preferences, and insights that can help improve sales strategies. Using **Excel**, we perform **data cleaning, transformation, visualization, and insights extraction**.
+
+## 📊 Skills Used
+- **Data Cleaning** 🧹 (Handling missing values, formatting inconsistencies)
+- **Data Transformation** 🔄 (Sorting, filtering, creating calculated fields)
+- **Data Visualization** 📊 (Charts, graphs, pivot tables)
+- **Insights Extraction** 🔍 (Identifying trends, top customers, popular products)
+
+## 🔑 Key Insights
+- **🏆 North America** is the biggest buyer, with **220 bike purchases**.
+- **👤 Professionals** buy the most bikes, with **150 purchases**.
+- **🏍️ Mid-age individuals (36 years old)** purchase the most bikes (**30 purchases**).
+- **💰 Income group $40,000** has the highest number of buyers.
+
+## 🖥️Snapshots
+![Bike Sales Dashboard](https://i.imgur.com/Pu5aEIe.png)
+
+## 📌 Conclusion
+This analysis provides valuable insights into **bike sales trends**, identifying the **top regions, customer demographics, and income groups** driving sales. The findings can help businesses target the **right audience**, improve **marketing strategies**, and optimize **inventory management** for higher sales performance.
+
+
