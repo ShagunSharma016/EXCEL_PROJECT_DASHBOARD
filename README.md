@@ -65,7 +65,7 @@ This project analyzes bike sales data to uncover trends, customer preferences, a
 This analysis provides valuable insights into **bike sales trends**, identifying the **top regions, customer demographics, and income groups** driving sales. The findings can help businesses target the **right audience**, improve **marketing strategies**, and optimize **inventory management** for higher sales performance.
 ## ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🏨 Hotel Sales Analysis
+# 3. 🏨 Hotel Sales Analysis
 
 ## 📖 Introduction
 This project analyzes hotel booking data to uncover insights on **customer demographics, booking trends, room preferences, and cancellation rates**. Using **Excel, Power Query, and ETL techniques**, we performed **data cleaning, transformation, visualization, and insights extraction** to help improve hotel sales strategies.
