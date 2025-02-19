@@ -64,4 +64,50 @@ This project analyzes bike sales data to uncover trends, customer preferences, a
 This analysis provides valuable insights into **bike sales trends**, identifying the **top regions, customer demographics, and income groups** driving sales. The findings can help businesses target the **right audience**, improve **marketing strategies**, and optimize **inventory management** for higher sales performance.
 ## ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# 🏨 Hotel Sales Analysis
+
+## 📖 Introduction
+This project analyzes hotel booking data to uncover insights on **customer demographics, booking trends, room preferences, and cancellation rates**. Using **Excel, Power Query, and ETL techniques**, we performed **data cleaning, transformation, visualization, and insights extraction** to help improve hotel sales strategies.
+
+## 🔄 ETL Process (Extract, Transform, Load)
+### **1️⃣ Extract** 📥  
+- Imported raw hotel booking data from **Excel spreadsheets**.  
+- Connected to external data sources for enrichment if necessary.  
+
+### **2️⃣ Transform** 🔄  
+- **Cleaned and formatted data** using **Power Query** (removed duplicates, handled missing values).  
+- **Merged datasets** (e.g., customer info, bookings, and revenue data).  
+- Created **calculated columns** (e.g., total revenue, cancellation rate).  
+
+### **3️⃣ Load** 📤  
+- Loaded the cleaned and transformed data into **Excel Pivot Tables & Dashboards**.  
+- Created **interactive reports & charts** for visualization.  
+
+## 📊 Skills Used
+- **ETL Process** 🔄 (Extract, Transform, Load with Power Query)  
+- **Data Cleaning** 🧹 (Handling missing values, formatting inconsistencies)  
+- **Data Transformation** 🔄 (Sorting, filtering, calculated fields)  
+- **Data Visualization** 📊 (Pivot charts, graphs, and interactive dashboards)  
+- **Insights Extraction** 🔍 (Identifying trends, customer behavior, and booking patterns)  
+
+## 🔑 Key Insights
+- **🏨 August** has the highest number of bookings.  
+- **💑 Couples** are the most common customer type.  
+- **❌ Cancellation Rate** is **37.06%**, meaning over a third of bookings get canceled.  
+
+## 🖥️ Snapshots
+![Hotel Sales Dashboard](https://i.imgur.com/x6DMCeT.png)  
+![Hotel Sales Dashboard](https://i.imgur.com/eNzIF14.png)  
+![Hotel Sales Dashboard](https://i.imgur.com/sy2Q0LK.png)  
+![Hotel Sales Dashboard](https://i.imgur.com/MHJYc0B.png)  
+
+## 🛠 Tools Used
+- **Microsoft Excel** (Pivot tables, charts, formulas)  
+- **Power Query** (Data cleaning, transformation, merging, and automation)  
+- **ETL Techniques** (Extract, Transform, Load process for structured data flow)  
+
+## 📌 Conclusion
+This analysis provides insights into **hotel booking trends**, identifying **top countries, popular room types, and high cancellation rates**. These findings help hotel managers **optimize pricing, reduce cancellations, and improve customer experience**.  
+
+
 
