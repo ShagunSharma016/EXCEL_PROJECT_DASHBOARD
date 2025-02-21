@@ -94,7 +94,6 @@ This project analyzes hotel booking data to uncover insights on **customer demog
 - **❌ Cancellation Rate** is **37.06%**, meaning over a third of bookings get canceled.  
 
 ## 🖥️ Snapshots
-![Hotel Sales Dashboard](https://i.imgur.com/P3uZz2h.png)  
 ![Hotel Sales Dashboard](https://i.imgur.com/eNzIF14.png)  
 ![Hotel Sales Dashboard](https://i.imgur.com/sy2Q0LK.png)  
 ![Hotel Sales Dashboard](https://i.imgur.com/OYWiKEa.png)  
