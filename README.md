@@ -67,7 +67,8 @@ This analysis provides valuable insights into **bike sales trends**, identifying
 # 3. 🏨 Hotel Sales Analysis
 
 ## 📖 Introduction
-This project analyzes hotel booking data to uncover insights on **customer demographics, booking trends, room preferences, and cancellation rates**. Using **Excel, Power Query, and ETL techniques**, we performed **data cleaning, transformation, visualization, and insights extraction** to help improve hotel sales strategies.
+This project analyzes hotel booking data to uncover insights on **customer demographics, booking trends, room preferences, and cancellation rates**. Using **Excel, Power Query, and ETL techniques**, we performed **data cleaning, transformation, visualization, and insights extraction** to help improve hotel sales strategies.  
+[Download my work here](Hotel_Sales_Analysis.xlsx)
 
 ## 🔄 ETL Process (Extract, Transform, Load)
 ### **1️⃣ Extract** 📥  
