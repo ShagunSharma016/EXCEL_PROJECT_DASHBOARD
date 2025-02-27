@@ -2,7 +2,7 @@
 
 ## 📌 Introduction  
 This project analyzes coffee sales data using Excel to extract meaningful insights. By applying various data analysis techniques, the goal is to identify trends, customer preferences, and business opportunities to optimize sales performance.  
-[Check out my work here](Coffee_Sales_Analysis.xlsx)
+[Download my work here](Coffee_Sales_Analysis.xlsx)
 
 ## 🛠️ Skills Used  
 - **Excel**: Data cleaning, transformation, and visualization  
