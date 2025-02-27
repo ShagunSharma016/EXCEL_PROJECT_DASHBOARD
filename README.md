@@ -42,7 +42,8 @@ The Coffee Sales Analysis provides valuable insights into sales trends, helping 
 # 2. 🏍️ Bike Sales Analysis
 
 ## 📖 Introduction
-This project analyzes bike sales data to uncover trends, customer preferences, and insights that can help improve sales strategies. Using **Excel**, we perform **data cleaning, transformation, visualization, and insights extraction**.
+This project analyzes bike sales data to uncover trends, customer preferences, and insights that can help improve sales strategies. Using **Excel**, we perform **data cleaning, transformation, visualization, and insights extraction**.  
+[Download my work here](Bikes_Sales_Analysis.xlsx)
 
 ## 📊 Skills Used
 - **Data Cleaning** 🧹 (Handling missing values, formatting inconsistencies)
